@@ -32,7 +32,7 @@ public class MyApplication extends App {
         instance = this;
         //bugly异常上报
         CrashReport.initCrashReport(getApplicationContext(), "d0e5250213", true);
-        
+
         initUM();
     }
 
