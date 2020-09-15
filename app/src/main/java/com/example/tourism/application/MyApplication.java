@@ -20,6 +20,7 @@ import com.umeng.socialize.UMShareConfig;
 
 public class MyApplication extends App {
 
+    
     @Override
     protected void attachBaseContext(Context base) {
         super.attachBaseContext(base);
